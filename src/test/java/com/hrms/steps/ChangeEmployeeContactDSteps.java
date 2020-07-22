@@ -55,7 +55,7 @@ public class ChangeEmployeeContactDSteps extends CommonMethods {
 	@Then("employee contact Details is added successfully")
 	public void employee_contact_Details_is_added_successfully() {
 		System.err.println("Employee contact Details is added successfully!!!!");
-
+System.out.println("New changes for Jinkens project");
 	}
 
 }
